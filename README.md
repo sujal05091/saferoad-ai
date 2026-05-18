@@ -372,10 +372,9 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 ## 👥 Team
 
 **SafeRoadAI Development Team**
-- Lead Developer: [Your Name]
-- AI/ML Engineer: [Name]
-- Mobile Engineer: [Name]
-- UX Designer: [Name]
+- Sujal S Kumar
+- Shraddha S Poojary
+
 
 ---
 
@@ -395,7 +394,7 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 
 Project Link: [https://github.com/yourusername/SafeRoadAI](https://github.com/yourusername/SafeRoadAI)
 
-For questions or support: support@saferoadai.com
+For questions or support: sujaludupi@gmail.com
 
 ---
 
